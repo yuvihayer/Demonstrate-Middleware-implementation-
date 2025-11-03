@@ -1,5 +1,5 @@
 # Middleware Implementation for Logging and Bearer Token Authentication
-##23BCS13049
+23BCS13049
 
 ## Setup
 ```bash
